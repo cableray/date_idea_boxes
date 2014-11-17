@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2826776285">
+    <data-source source="LOCAL" name="Rails date_idea_boxes: development" uuid="59601207-c57a-4c0a-8bc0-4652fcc06f39">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:date_idea_boxes_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails date_idea_boxes: test" uuid="8352a769-dc02-46a1-a180-8e9f0fdb1acd">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:date_idea_boxes_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails date_idea_boxes: production" uuid="ce2f7cfa-4315-4b39-b7a9-183a0849a824">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:date_idea_boxes_production</jdbc-url>
+      <user-name>date_idea_boxes</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfeedfebdffedfefdff5dfe3dfeedfefdfebdff5dfe8dfe5dff2dfefdff9dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
