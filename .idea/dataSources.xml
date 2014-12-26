@@ -17,10 +17,7 @@
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:date_idea_boxes_production</jdbc-url>
-      <user-name>date_idea_boxes</user-name>
-      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfeedfebdffedfefdff5dfe3dfeedfefdfebdff5dfe8dfe5dff2dfefdff9dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
       <libraries />
     </data-source>
   </component>
 </project>
-
